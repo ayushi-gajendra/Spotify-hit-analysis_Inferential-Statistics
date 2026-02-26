@@ -53,7 +53,7 @@ To simulate a real-world scenario, I modeled a group of **10 independent tracks*
 | **1** | 0.00204 | 0.00218 | Negligible probability for highly skewed sets. |
 | **2** | 0.01306 | 0.01524 | Risk of a 20% major playlist is only ~1.5%. |
 | **3** | 0.04955 | 0.06479 | Baseline for "diverse" mood sets. |
-| **4** | 0.12341 | 0.18820 | ~40% chance of having 5 or fewer major tracks. |
+| **4** | 0.12341 | 0.18820 | ~19% chance of having 4 or fewer major tracks. |
 | **5** | 0.21078 | 0.39897 | Near equal split of mood is a 21% occurrence. |
 | **6** | **0.24999** | **0.64896** | **Most Likely Outcome:** 1 in 4 sets will have 6 major tracks.  |
 | **7** | 0.20332 | 0.85228 | 85% probability of having at most 7 major tracks. |
