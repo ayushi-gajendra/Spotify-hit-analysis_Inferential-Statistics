@@ -1,27 +1,39 @@
-### Inferential Statistics (The "What-if" - using probability to predict what could happen)
-
----
-
 # 🎲 Predictable Playlists: Probability Modeling for Track Selection
+
+### *Part 2: Bridging Descriptive and Inferential Statistics*
+
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Applied%20Statistics-0078D4?style=for-the-badge&logo=analytics&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
-### *Bridging Descriptive and Inferential Statistics*
-**Probability Theory** | **Binomial Distributions** | **Strategic Forecasting**
+---
+
+## 📚 The Spotify Data Science Trilogy
+This repository is the second installment of a comprehensive statistical deep-dive into Spotify track data.
+1. [Part 1: Descriptive Statistics](https://github.com/ayushi-gajendra/Spotify-hit-analysis_Descriptive-Statistics) - Summarizing the "DNA" of hit songs.
+2. **Part 2: Inferential Statistics (This Repo)** - Modeling track modality and predicting outcomes.
+3. [Part 3: Distribution Analysis](https://github.com/ayushi-gajendra/Spotify-hit-analysis_Distribution-analysis) - Validating mathematical models against industry data.
 
 ---
 
-## 📌 Project Overview
-As a follow-up to my [Spotify Hit Analysis](https://github.com/ayushi-gajendra/Spotify-hit-analysis), this project moves from summarizing historical data to **predicting future outcomes**. By identifying the underlying probability distributions of track features, I modeled the likelihood of specific musical "modes" appearing in a curated set of songs.
+## 📌 Project Overview 
+From "What Is" to "What If": As a follow-up to my descriptive analysis, this project moves from summarizing historical data to **predicting future outcomes**. By identifying the underlying probability distributions of track features, I modeled the likelihood of specific musical "modes" appearing in a curated set of songs. 
+
+This represents the transition into **Inferential Statistics**, where I use probability theory to predict outcomes and assess operational risks in playlist curation.
+
+---
+
+## 📂 Business Scenarios Modeled
+As a Product or Operations Analyst, inferential modeling allows us to solve predictive challenges:
+
+* **Risk Mitigation:** Determining the mathematical likelihood of a playlist mood being "too dark" (all minor keys) or "too bright" (all major keys).
+* **Predictability Modeling:** Establishing an "Expected Value" for a 10-track set to ensure brand consistency across automated curation.
+* **Diversification Strategy:** Using the **Cumulative Distribution Function (CDF)** to calculate the odds of achieving a "diverse" mood split (e.g., at least 4 Major tracks) in a random selection.
+
+---
 
 ## 📂 The Business Problem
 A curator needs to understand the risk of a playlist's mood. If a "Major" modality represents a positive/bright sound, how likely is it that a random selection of 10 tracks will result in a completely "Minor" (darker) set? This project uses math to answer that question before the first song is even played.
-
----
-
-## 📌 From "What Is" to "What If"
-My previous project focused on **Descriptive Statistics** (summarizing historical data). This project represents a transition into **Inferential Statistics**, where I use probability theory to predict future outcomes and assess operational risks in playlist curation.
 
 ---
 
